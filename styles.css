@@ -6,7 +6,7 @@ body {
     width: 1024px;
     padding: 50px;
     margin: auto;    
-   }
+ }
 
 .enum {    
     text-align: left;
@@ -15,8 +15,7 @@ body {
     font-weight: bold;      
  }   
 
- img {
-    
+img {    
     margin-left: auto;
     margin-right: auto; 
     position: relative;
